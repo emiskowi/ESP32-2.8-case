@@ -1,0 +1,7 @@
+# Blender backups and transient files
+*.blend1
+*.blend2
+*.zip
+__pycache__/
+.DS_Store
+Thumbs.db
